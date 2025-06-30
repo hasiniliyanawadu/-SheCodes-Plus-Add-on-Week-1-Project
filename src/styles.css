@@ -1,0 +1,58 @@
+hr {
+    box-shadow: 10px 10px 20px rgb(181, 181, 181);
+    margin-top: 120px;
+}
+
+footer {
+    font-family:'Genova', sans-serif;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+.main-box {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: rgba(144, 176, 152, 0.3);
+    display: block;
+    max-width: 400px;
+    margin: 120px auto;
+    padding: 30px;
+    border-width: 1px;
+    border-color: rgba(144, 176, 152, 0.3);
+    border-radius: 20px;
+}
+
+.label {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.countries {
+    margin: 0 auto;
+    margin-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    width: 180px;
+    padding: 5px;
+    font-size: 14px;
+    border-width: 1px;
+    border-color: rgba(156, 156, 156, 0.3);
+    border-radius: 10px;
+}
+
+.git-profile, .git-project {
+    color: rgb(81, 75, 35);
+}
+
+.git-profile:hover, .git-project:hover {
+     color: rgba(29, 29, 27, 0.4);
+}
+
+.git-profile:visited, .git-project:visited {
+       color: rgba(27, 29, 27, 0.4);
+}
+
+.git-profile:active, .git-project:active {
+       color: rgba(29, 29, 27, 0.4);
+}
